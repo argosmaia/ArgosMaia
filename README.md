@@ -29,7 +29,7 @@ PUC/IdeiaGlobo: JUL/22 to MAR/23
 
 ### Support:
 
-``` As I am a <b>State pensioner until I turn 24 y.o.</b>, I cannot work as a professional until December 2023, but I can do internships or projects that do not require an employment relationship (freelance or open-source) ```
+``` lAs I am a <b>State pensioner until I turn 24 y.o.</b>, I cannot work as a professional until December 2023, but I can do internships or projects that do not require an employment relationship (freelance or open-source)```
 
 E-mail contact: argosmaia5@gmail.com
 
