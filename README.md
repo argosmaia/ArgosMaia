@@ -7,19 +7,17 @@ Hello, my name is Argos! I am an undergraduate student at the State University o
 <p>I've developed an website using HTML, Bootstrap 5 and JS and a Game using ARKit for Swift and have used Java and Python but because a confidentiality contract I am not able to show it!
 <p>Besides, I am learning others programming languages as C, C++, C# and Rust.
 <p>I am multi-task and I like to do many projects, not as a senior dev, but yet as a intern/Jr dev, trying to gain exp in many areas as possible!
+<p>As I mentioned in my bio below my profile pic, I like software development (Mobile and Desktop), Game Dev and Cybersecurity (not professional, yet a beginner).
 
-As I mentioned in my bio below my profile pic, I like software development (Mobile and Desktop), Game Dev and Cybersecurity (not professional, yet a beginner).
-
-### Past Experience:
-PUC/IdeiaGlobo: JUL/22 to MAR/23
+### Past work experience:
+<p>PUC/IdeiaGlobo: JUL/22 to MAR/23
 
 ### Habilities:
 <p>• Teamwork and Individual work
-<p>• Intermediary English
-<p>• Japanese - Basic - Certified: JLPT N5
-<p>• Chinese - Basic
-<p>• Spanish - Basic 
-
+<p>• English: <b> Intermediary</b>
+<p>• Japanese - <b>Basic</b> - Certified: JLPT N5
+<p>• Chinese - <b>Basic</b>
+<p>• Spanish - <b>Basic</b>
 <p>• Flexibility, proactivity, and good communication
 
 ### Courses attended:
