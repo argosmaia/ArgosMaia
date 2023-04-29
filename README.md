@@ -40,5 +40,5 @@ E-mail contact: argosmaia5@gmail.com
 <i>ETH Wallet Coinbase:</i>
 <p>
 <b>0x4fB44F9A30849e76060118445455Ff4F35C1D6E4</b>
-<p>
-``` With your support I can buy a better Notebook [my actual NB is weak (Core i3 with 2.4 Ghz)] ```
+
+```With your support I can buy a better Notebook [my actual NB is weak (Core i3 with 2.4 Ghz)]```
