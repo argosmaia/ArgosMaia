@@ -19,3 +19,7 @@ PUC/IdeiaGlobo: JUL/22 to MAR/23
 BTC Wallet address of Coinbase Account to receive support from users: 
 
 3N3A9qkSmJpFxuShdkq2DU5P3Jh1FcnT4w
+
+ETH Wallet Coinbase:
+
+0x4fB44F9A30849e76060118445455Ff4F35C1D6E4
