@@ -33,7 +33,7 @@ PUC/IdeiaGlobo: JUL/22 to MAR/23
 
 E-mail contact: argosmaia5@gmail.com
 
-<i>BTC Wallet address of Coinbase Account to receive support from users: 
+<i>BTC Wallet address of Coinbase Account to receive support from users:</i>
 <p>
 <b>3N3A9qkSmJpFxuShdkq2DU5P3Jh1FcnT4w</b>
 <p>
