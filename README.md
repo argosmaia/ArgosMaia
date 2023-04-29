@@ -16,6 +16,9 @@ As I mentioned in my bio below my profile pic, I like software development (Mobi
 PUC/IdeiaGlobo: JUL/22 to MAR/23
 
 ### Support:
+
+``` As I am a pensioner, I cannot work as a professional until December 2023, but I can do internships or projects that do not require an employment relationship (freelance or open-source) ```
+
 BTC Wallet address of Coinbase Account to receive support from users: 
 
 3N3A9qkSmJpFxuShdkq2DU5P3Jh1FcnT4w
