@@ -34,11 +34,11 @@ PUC/IdeiaGlobo: JUL/22 to MAR/23
 E-mail contact: argosmaia5@gmail.com
 
 <i>BTC Wallet address of Coinbase Account to receive support from users: 
-
-<b>3N3A9qkSmJpFxuShdkq2DU5P3Jh1FcnT4w
-
-<i>ETH Wallet Coinbase:
-
-<b>0x4fB44F9A30849e76060118445455Ff4F35C1D6E4
-
+<p>
+<b>3N3A9qkSmJpFxuShdkq2DU5P3Jh1FcnT4w</b>
+<p>
+<i>ETH Wallet Coinbase:</i>
+<p>
+<b>0x4fB44F9A30849e76060118445455Ff4F35C1D6E4</b>
+<p>
 ``` With your support I can buy a better Notebook [my actual NB is weak (Core i3 with 2.4 Ghz)] ```
