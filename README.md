@@ -9,18 +9,8 @@ Hello, my name is Argos! I am an undergraduate student at the State University o
 <p>I am multi-task and I like to do many projects, not as a senior dev, but yet as a intern/Jr dev, trying to gain exp in many areas as possible!
 <p>As I mentioned in my bio below my profile pic, I like software development (Mobile and Desktop), Game Dev and Cybersecurity (not professional, yet a beginner).
 
-  <div>
-    <a href="https://github.com/argosmaia">
-    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayaraSilveira&langs_count=7&theme=dracula"/><br>
-  </div>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/argosmaia/github-readme-stats)
 
-  ##
-
-  <div>
-    <a href="https://github.comargosmaia/real-time-voice-transcriber"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
-    <a href="https://github.comargosmaia/to-do-list"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"/></a>
-    <a href="https://github.comargosmaia/Algoritms"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"/></a>
-  </div>
 
 ### Past work experience:
 <p>PUC/IdeiaGlobo: JUL/22 to MAR/23
