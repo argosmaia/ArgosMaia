@@ -2,12 +2,19 @@
 
 ### Bio: 
 
-Hello, my name is Argos! I am an undergraduate student at the State University of Rio de Janeiro (UERJ) and I interned on a project at Ideiaglobo at the Pontifical Catholic University of Rio de Janeiro (PUC-RJ) from July 2022 to March 2023.
-<p>I've developed experience as interner in some programming languages, such as Java, SwiftUI and Python while on the internship.
-<p>I've developed an website using HTML, Bootstrap 5 and JS and a Game using ARKit for Swift and have used Java and Python but because a confidentiality contract I am not able to show it!
-<p>Besides, I am learning others programming languages as C, C++, C# and Rust.
-<p>I am multi-task and I like to do many projects, not as a senior dev, but yet as a intern/Jr dev, trying to gain exp in many areas as possible!
-<p>As I mentioned in my bio below my profile pic, I like software development (Mobile and Desktop), Game Dev and Cybersecurity (not professional, yet a beginner).
+<html>
+<head>
+<title>Argos's Resume</title>
+</head>
+<body>
+<h1>Argos</h1>
+<p>I am an undergraduate student at the State University of Rio de Janeiro (UERJ) and I interned on a project at Ideiaglobo at the Pontifical Catholic University of Rio de Janeiro (PUC-RJ) from July 2022 to March 2023.</p>
+<p>During my internship, I developed experience in programming languages such as Java, SwiftUI, and Python. I also developed a website using HTML, Bootstrap 5, and JS, and a game using ARKit for Swift. I used Java and Python for the game, but due to a confidentiality contract, I am not able to show it.</p>
+<p>I am currently learning other programming languages, such as C, C++, C#, and Rust. I am also multi-tasking and I like to do many projects. I am not a senior developer, but I am an intern/junior developer who is trying to gain experience in as many areas as possible.</p>
+<p>As I mentioned in my bio below my profile pic, I like software development (mobile and desktop), game development, and cybersecurity (not professional, yet a beginner).</p>
+</body>
+</html>
+
 
 
 <div style="text-align: center;">
