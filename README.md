@@ -21,6 +21,9 @@ Hello, my name is Argos! I am an undergraduate student at the State University o
 ### Past work experience:
 <p>PUC/IdeiaGlobo: JUL/22 to MAR/23
 
+### Actual works
+<P>Volunteering at a extension project teaching computational thinking at schools: JUL/23</P>
+
 ### Habilities:
 <p>• Teamwork and Individual work
 <p>• English: <b> Intermediary</b>
