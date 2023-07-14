@@ -9,6 +9,24 @@ Hello, my name is Argos! I am an undergraduate student at the State University o
 <p>I am multi-task and I like to do many projects, not as a senior dev, but yet as a intern/Jr dev, trying to gain exp in many areas as possible!
 <p>As I mentioned in my bio below my profile pic, I like software development (Mobile and Desktop), Game Dev and Cybersecurity (not professional, yet a beginner).
 
+  <div>
+    <a href="https://github.com/KayaraSilveira">
+    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayaraSilveira&langs_count=7&theme=dracula"/><br>
+  </div>
+
+  ##
+
+  <div>
+    <a href="https://github.com/KayaraSilveira/real-time-voice-transcriber"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
+    <a href="https://github.com/KayaraSilveira/to-do-list"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"/></a>
+    <a href="https://github.com/KayaraSilveira/AED-I"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"/></a>
+    <a href="https://github.com/KayaraSilveira/PS-VM"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/></a>
+    <a href="https://github.com/KayaraSilveira/Filmes.com"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/></a>
+    <a href="https://github.com/KayaraSilveira/shop-me-mockup"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/></a>
+    <a href="https://github.com/KayaraSilveira/shop-me-mockup"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/></a>
+
+  </div>
+
 ### Past work experience:
 <p>PUC/IdeiaGlobo: JUL/22 to MAR/23
 
