@@ -4,7 +4,7 @@
 
 <html>
 <head>
-<title>Argos's Resume</title>
+  Argos's Resume
 </head>
 <body>
 <h1>Argos</h1>
