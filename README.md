@@ -28,85 +28,21 @@
   </div>
   <script src="script.js"></script>
 </body>
+<div style="text-align: center;">
+  <a href="https://github.com/argosmaia">
+    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argosmaia&langs_count=7&theme=dracula"/><br>
+  </a>
+</div>
 
-body {
-  font-family: Arial, sans-serif;
-  margin: 20px;
-}
 
-.chart-container {
-  width: 400px;
-  height: 300px;
-  margin: 0 auto;
-}
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
 
-const token = 'SEU_TOKEN_DE_ACESSO_AQUI';
-const username = 'SEU_NOME_DE_USUARIO_AQUI';
+<div style="text-align: center;">
+  <canvas id="myChart" height="300"></canvas>
+</div>
 
-async function getRepoLanguages(username, token) {
-  try {
-    const response = await fetch(`https://api.github.com/users/${username}/repos`, {
-      headers: {
-        Authorization: `Bearer ${token}`,
-      },
-    });
-    const repositories = await response.json();
-
-    const languages = repositories.reduce((acc, repo) => {
-      if (repo.language) {
-        acc[repo.language] = (acc[repo.language] || 0) + 1;
-      }
-      return acc;
-    }, {});
-
-    const totalRepositories = repositories.length;
-    for (const lang in languages) {
-      languages[lang] = ((languages[lang] / totalRepositories) * 100).toFixed(2);
-    }
-
-    return languages;
-  } catch (error) {
-    console.error('Erro ao obter informações do GitHub:', error);
-    return null;
-  }
-}
-
-async function createChart() {
-  const languages = await getRepoLanguages(username, token);
-  if (!languages) return;
-
-  const chartCanvas = document.getElementById('language-chart');
-  const chartData = {
-    labels: Object.keys(languages),
-    datasets: [{
-      data: Object.values(languages),
-      backgroundColor: [
-        'rgba(255, 99, 132, 0.6)',
-        'rgba(54, 162, 235, 0.6)',
-        'rgba(255, 206, 86, 0.6)',
-        'rgba(75, 192, 192, 0.6)',
-        // Adicione mais cores de fundo conforme necessário.
-      ],
-    }],
-  };
-
-  new Chart(chartCanvas, {
-    type: 'bar',
-    data: chartData,
-    options: {
-      legend: { display: false },
-      scales: {
-        yAxes: [{
-          ticks: {
-            beginAtZero: true,
-          },
-        }],
-      },
-    },
-  });
-}
-
-createChart();
 
 
 ### Past work experience:
