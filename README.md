@@ -17,13 +17,6 @@
 
 
 
-<!--<div style="text-align: center;">
-  <a href="https://github.com/argosmaia">
-    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argosmaia&langs_count=7&theme=dracula"/><br>
-  </a>
-</div>-->
-
-
 <head>
   <meta charset="UTF-8">
   <title>Linguagens Mais Usadas</title>
