@@ -35,16 +35,6 @@
 </div>
 
 
-<head>
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-</head>
-
-<div style="text-align: center;">
-  <canvas id="myChart" height="300"></canvas>
-</div>
-
-
-
 ### Past work experience:
 <p>PUC/IdeiaGlobo: JUL/22 to MAR/23
 
