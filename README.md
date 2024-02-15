@@ -23,7 +23,8 @@
     </a>
   </div>
 
-
+### Actual work experience:
+<p>PUC/IdeiaGlobo: NOV/23 - Yet participating
 ### Past work experience:
 <p>PUC/IdeiaGlobo: JUL/22 to MAR/23
 
