@@ -25,11 +25,13 @@
 
 ### Actual work experience:
 <p>PUC/IdeiaGlobo: NOV/23 - Yet participating
+<P>Volunteering at a extension project teaching computational thinking at schools: AUG/23</P>
+
 ### Past work experience:
 <p>PUC/IdeiaGlobo: JUL/22 to MAR/23
 
 ### Actual works
-<P>Volunteering at a extension project teaching computational thinking at schools: JUL/23</P>
+
 
 ### Habilities:
 <p>• Teamwork and Individual work
