@@ -24,11 +24,11 @@
   </div>
 
 ### Actual work experience:
-<p>PUC/IdeiaGlobo: NOV/23 - Yet participating
+<p>Full Stack intern @ DGTI-UERJ: NOV/23 - Yet participating
 <P>Volunteering at a extension project teaching computational thinking at schools: AUG/23</P>
 
 ### Past work experience:
-<p>PUC/IdeiaGlobo: JUL/22 to MAR/23
+<p>Swift Developer @ PUC/IdeiaGlobo: JUL/22 to MAR/23
 
 ### Actual works
 
