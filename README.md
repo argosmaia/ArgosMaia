@@ -34,6 +34,31 @@
   </a>
 </div>-->
 
+# My Programming Languages Usage
+
+<div style="overflow-x:auto;">
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <th style="border: 1px solid #dddddd; padding: 8px;">Language</th>
+    <th style="border: 1px solid #dddddd; padding: 8px;">Usage (%)</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">JavaScript</td>
+    <td style="border: 1px solid #dddddd; padding: 8px;">30</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">Python</td>
+    <td style="border: 1px solid #dddddd; padding: 8px;">25</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">Java</td>
+    <td style="border: 1px solid #dddddd; padding: 8px;">20</td>
+  </tr>
+  <!-- Add more rows for other languages -->
+</table>
+</div>
+
+
 
 ### Past work experience:
 <p>PUC/IdeiaGlobo: JUL/22 to MAR/23
