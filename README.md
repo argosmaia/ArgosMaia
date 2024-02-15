@@ -17,45 +17,16 @@
 
 
 
-<!--<head>
-  <meta charset="UTF-8">
-  <title>Linguagens Mais Usadas</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <div class="chart-container">
-    <canvas id="language-chart"></canvas>
-  </div>
-  <script src="script.js"></script>
+
+<div class="chart-container">
+  <canvas id="language-chart"></canvas>
+</div>
+<script src="script.js"></script>
 </body>
 <div style="text-align: center;">
-  <a href="https://github.com/argosmaia">
-    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argosmaia&langs_count=7&theme=dracula"/><br>
-  </a>
-</div>-->
-
-# My Programming Languages Usage
-
-<div style="overflow-x:auto;">
-<table style="width:100%; border-collapse: collapse;">
-  <tr>
-    <th style="border: 1px solid #dddddd; padding: 8px;">Language</th>
-    <th style="border: 1px solid #dddddd; padding: 8px;">Usage (%)</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">JavaScript</td>
-    <td style="border: 1px solid #dddddd; padding: 8px;">30</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">Python</td>
-    <td style="border: 1px solid #dddddd; padding: 8px;">25</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">Java</td>
-    <td style="border: 1px solid #dddddd; padding: 8px;">20</td>
-  </tr>
-  <!-- Add more rows for other languages -->
-</table>
+<a href="https://github.com/argosmaia">
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argosmaia&langs_count=7&theme=dracula"/><br>
+</a>
 </div>
 
 
