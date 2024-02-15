@@ -17,7 +17,7 @@
 
 
 
-<head>
+<!--<head>
   <meta charset="UTF-8">
   <title>Linguagens Mais Usadas</title>
   <link rel="stylesheet" href="styles.css">
@@ -32,7 +32,7 @@
   <a href="https://github.com/argosmaia">
     <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argosmaia&langs_count=7&theme=dracula"/><br>
   </a>
-</div>
+</div>-->
 
 
 ### Past work experience:
