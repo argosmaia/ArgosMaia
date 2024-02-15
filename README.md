@@ -4,7 +4,8 @@
 
 <html>
 <head>
-  Argos's Resume
+  <title>Argos's Resume</title>
+  <script src="script.js"></script>
 </head>
 <body>
 <h1>Argos</h1>
@@ -21,7 +22,6 @@
 <div class="chart-container">
   <canvas id="language-chart"></canvas>
 </div>
-<script src="script.js"></script>
 </body>
 <div style="text-align: center;">
 <a href="https://github.com/argosmaia">
