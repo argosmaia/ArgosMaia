@@ -4,10 +4,9 @@
 
 <html>
 <head>
-  <title>Argos's Resume</title>
+  <h1>Argos's Resume</h1>
 </head>
 <body>
-  <h1>Argos</h1>
   <p>I am an undergraduate student and a interner at the State University of Rio de Janeiro (UERJ) and I've interned on a project at Ideiaglobo at the Pontifical Catholic University of Rio de Janeiro (PUC-RJ) from July 2022 to March 2023.</p>
   <p>During my internship, I developed experience in programming languages such as Java, SwiftUI, and Python. I also developed a website using HTML, Bootstrap 5, and JS, and a game using ARKit for Swift. I used Java and Python for the game, but due to a confidentiality contract, I am not able to show it.</p>
   <p>I am currently learning other programming languages, such as C, C++, C#, and Rust. I am also multi-tasking and I like to do many projects. I am not a senior developer, but I am an intern/junior developer who is trying to gain experience in as many areas as possible.</p>
@@ -33,7 +32,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="45"/>
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-wordmark.svg" width="45"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg" width="45"/>
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45"/> 
 </div>
 
