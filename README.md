@@ -23,15 +23,27 @@
     </a>
   </div>
 
+### Tecnologias
+<div style="display: inline_block">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="45"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="45"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="45"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="45"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45"/> 
+</div>
+
+
 ### Actual work experience:
 <p>Full Stack intern @ DGTI-UERJ: NOV/23 - Yet participating
-<P>Volunteering at a extension project teaching computational thinking at schools: AUG/23</P>
 
 ### Past work experience:
-<p>Full Stacker @ DGTI-UERJ </p>
+<P>Volunteering at a extension project teaching computational thinking at schools: AUG/23 to APR/24</P>
 <p>Swift Developer @ PUC/IdeiaGlobo: JUL/22 to MAR/23</p>
-
-### Actual works
 
 
 ### Habilities:
