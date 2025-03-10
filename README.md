@@ -1,78 +1,62 @@
-### Hi there 👋
+# Argos Antão Maia - Currículo
 
-### Bio: 
+## Sobre Mim
 
-<html>
-<head>
-  <h1>Argos's Resume</h1>
-</head>
-<body>
-  <p>I am an undergraduate student and a interner at the State University of Rio de Janeiro (UERJ) and I've interned on a project at Ideiaglobo at the Pontifical Catholic University of Rio de Janeiro (PUC-RJ) from July 2022 to March 2023.</p>
-  <p>During my internship, I developed experience in programming languages such as Java, SwiftUI, and Python. I also developed a website using HTML, Bootstrap 5, and JS, and a game using ARKit for Swift. I used Java and Python for the game, but due to a confidentiality contract, I am not able to show it.</p>
-  <p>I am currently learning other programming languages, such as C, C++, C#, and Rust. I am also multi-tasking and I like to do many projects. I am not a senior developer, but I am an intern/junior developer who is trying to gain experience in as many areas as possible.</p>
-  <p>As I mentioned in my bio below my profile pic, I like software development (mobile and desktop), game development, and cybersecurity (not professional, yet a beginner).</p>
+Sou estudante de graduação na Universidade do Estado do Rio de Janeiro (UERJ) e estagiário na área de Desenvolvimento de Software. Tive uma experiência significativa no projeto **Ideiaglobo** da **PUC-RJ**, onde trabalhei com várias tecnologias, como **Java**, **SwiftUI**, **Python**, além de ter desenvolvido um site e um jogo usando **ARKit** para Swift. Atualmente, estou expandindo meus conhecimentos em outras linguagens, como **C**, **C++**, **C#** e **Rust**, e estou sempre à procura de novos desafios em projetos diversos.
 
-  ### MOST 10 USED PROGRAMMING LANGUAGES
-  <div class="chart-container">
-    <canvas id="language-chart"></canvas>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://github.com/argosmaia">
-      <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argosmaia&langs_count=10&theme=dracula"/><br>
-    </a>
-  </div>
+## Tecnologias
 
-### Tecnologias
-<div style="display: inline_block">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45"/>
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="45"/>
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="45"/>
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45"/>
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="45"/>
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg" width="45"/>
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45"/> 
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" alt="Haskell" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg" alt="Laravel" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="50" />
 </div>
 
 
-### Actual work experience:
-<p>Full Stack intern @ DGTI-UERJ: NOV/23 - Yet participating
+## Experiência Profissional
 
-### Past work experience:
-<P>Volunteering at a extension project teaching computational thinking at schools: AUG/23 to APR/24</P>
-<p>Swift Developer @ PUC/IdeiaGlobo: JUL/22 to MAR/23</p>
+### Estagiário Full Stack @ DGTI-UERJ
+**Novembro de 2023 - Atualmente**
+
+### Voluntário no projeto de Extensão - Ensino de Pensamento Computacional
+**Agosto de 2023 - Abril de 2024**
+
+### Desenvolvedor Swift @ PUC-RJ / Ideiaglobo
+**Julho de 2022 - Março de 2023**
+
+## Habilidades
+
+- Trabalho em equipe e individual
+- **Inglês**: Intermediário
+- **Japonês**: Básico (Certificado JLPT N5)
+- **Chinês**: Básico
+- **Espanhol**: Básico
+- Flexibilidade, proatividade e boa comunicação
+
+## Cursos Realizados
+
+- **Data Science - Formação 2023** (Online)
+- **Excel** - Janeiro de 2020
+- **Seven Entertainment: Game Design** (Dezembro de 2011 - Dezembro de 2014)
+
+## Estatísticas de Programação
+
+<div>
+  <a href="https://github.com/argosmaia">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argosmaia&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
 
 
-### Habilities:
-<p>• Teamwork and Individual work
-<p>• English: <b> Intermediary</b>
-<p>• Japanese - <b>Basic</b> - Certified: JLPT N5
-<p>• Chinese - <b>Basic</b>
-<p>• Spanish - <b>Basic</b>
-<p>• Flexibility, proactivity, and good communication
+## Contato
 
-### Courses attended:
-<p>• Data Science 2023 Formation: Online course
-<p>• Excel: JAN/2020
-<p>• Seven Entertainment: Game Design DEZ/2011 - DEZ/2014
+Para projetos e colaborações, entre em contato através do e-mail:
 
-### Support:
-
-```As I am a State pensioner until I turn 24 y.o., I cannot work as a professional until December 2023, but I can do internships or projects that do not require an employment relationship (freelance or open-source)```
-
-E-mail contact for projects and collaborations: argosmaia5@gmail.com
-
-<i>BTC Wallet address of Coinbase Account to receive support from users:</i>
-<p>
-<b>3N3A9qkSmJpFxuShdkq2DU5P3Jh1FcnT4w</b>
-<p>
-<i>ETH Wallet Coinbase:</i>
-<p>
-<b>0x4fB44F9A30849e76060118445455Ff4F35C1D6E4</b>
-
-```With your support I can buy a better Notebook [my actual NB is weak (Core i3 with 2.4 Ghz)]```
-
-</body>
-</html>
+**E-mail**: [argosmaia5@gmail.com](mailto:argosmaia5@gmail.com)
