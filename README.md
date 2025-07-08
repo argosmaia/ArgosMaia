@@ -19,7 +19,7 @@
 
 <div style="display: flex; align-items: center; gap: 16px;">
   <a href="https://github.com/argosmaia">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argosmaia&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argosmaia&layout=compact&langs_count=10&theme=dracula"/>
   </a>
 
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=argosmaia&show_icons=true&locale=en&theme=dracula" alt="argosmaia" />
