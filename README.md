@@ -1,14 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=argosmaia&label=Profile%20views&color=0e75b6&style=flat" alt="argosmaia" /> </p>
 
-- 🔭 I’m currently working on [sessao-oculta](https://github.com/argosmaia/sessao-oculta)
+- 🔭 I’m currently working at DIRTEC - UERJ
 
-- 🌱 I’m currently learning **Java, Spring, Laravel, NestJS, Vue, Angular, React and REST**
+- 🌱 I’m currently learning **Java, Spring, Laravel and React **
 
 - 📫 How to reach me **argosmaia5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/argos maia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="argos maia" height="30" width="40" /></a>
 <a href="https://instagram.com/argos.maia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="argos.maia" height="30" width="40" /></a>
 </p>
 
